@@ -1,7 +1,3 @@
-Author: Nino (Poseidon-ng)
-
-Date: 09APR2020
-
 # VirtualHackingLab Report Template in Markdown
 
 I created an **VHL Report Template in Markdown** to make it easier on future students of VirtualHackingLabs with writing their Certificate of Completetion report for both the Basic and Advanced+ Certificate!
