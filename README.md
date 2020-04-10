@@ -50,6 +50,8 @@ Well rendering color sets you can use in the template YAML frontmatter:
 
 ## Mentions
 
+[Markdown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 This report is based off of noraj OSCP template
 - Noraj - https://github.com/noraj
 
