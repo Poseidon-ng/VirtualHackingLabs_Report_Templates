@@ -41,16 +41,16 @@ You can change the code syntax highlight theme with ```[--highlight-style](https
 ## Color sets
 Well rendering color sets you can use in the template YAML frontmatter:
 
-|: titlepage-color :|: titlepage-text-color :|: titlepage-rule-color :|
+| titlepage-color | titlepage-text-color | titlepage-rule-color |
 |:---------------:|:--------------------:|:--------------------:|
-|:```DC143C```(Crimson):|:```FFFFFF```(White):|:```FFFFFF```(White):|
-|:```00FF7F```(SpringGreen):|:```006400```(DarkGreen):|:```000000```(Black):|
-|:```1E90FF```(DodgeBlue):|:```FFFAFA```(Snow):|:```FFAFA```(Snow):|
-|:```483D8B```(DarkSlateBlue):|:```FFFAFA```(Snow):|```FFFAFA```(Snow):|
-|:```FFD700```(Gold):|:```000000```(Black):|:```000000```(Black):|
-|:```FFEFD5```(PapayaWhip):|:```000000```(Black):|:```000000```(Black):|
-|:```FF8C00```(DarkOrange):|:```000000```(Black):|:```000000```(Black):|
-|:```FFEF96```(no name):|:```50394C```(no name):|:```50394C```(no name):|
+|```DC143C```(Crimson)|```FFFFFF```(White)|```FFFFFF```(White)|
+|```00FF7F```(SpringGreen)|```006400```(DarkGreen)|```000000```(Black)|
+|```1E90FF```(DodgeBlue)|```FFFAFA```(Snow)|```FFAFA```(Snow)|
+|```483D8B```(DarkSlateBlue)|```FFFAFA```(Snow)|```FFFAFA```(Snow)|
+|```FFD700```(Gold)|```000000```(Black)|```000000```(Black)|
+|```FFEFD5```(PapayaWhip)|```000000```(Black)|```000000```(Black)|
+|```FF8C00```(DarkOrange)|```000000```(Black)|```000000```(Black)|
+|```FFEF96```(no name)|```50394C```(no name)|```50394C```(no name)|
 
 ## Mentions
 
