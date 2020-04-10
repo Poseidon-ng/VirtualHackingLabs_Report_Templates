@@ -26,8 +26,8 @@ There is a script writtin in bash to generate your report!
 ### Manual
 Generate the report PDF from the markdown template:
 ```
-pandoc src/OSCP-exam-report-template_whoisflynn_v3.2.md \
--o output/OSCP-OS-XXXXX-Exam-Report.pdf \
+pandoc VHL_Basic_Report_Template.md \
+-o output/VHL_Basic_Report.pdf \
 --from markdown+yaml_metadata_block+raw_html \
 --template eisvogel \
 --table-of-contents \
