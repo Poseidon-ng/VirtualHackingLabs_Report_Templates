@@ -7,22 +7,22 @@ I created an **VHL Report Template in Markdown** to make it easier on future stu
 
 Now all future students will have an easy to follow and professional looking report!
 
-# H2 Requirements
+## Requirements
 
 - [Pandoc](https://pandoc.org/installing.html)
 - LaTeX (eg. [TeX Live](http://www.tug.org/texlive/)) in order to get ```pdflatex``` or ```xelatex```
 - [Eisvogel Pandoc LaTeX PDF Template](https://github.com/Wandmalfarbe/pandoc-latex-template#installation)
 - [p7zip](http://p7zip.sourceforge.net/) if you want to use the script, for generating the archive
 
-# H2 Usage
+## Usage
 Write your report in **markdown.**
 
-# H3 Automatic
+### Automatic
 There is a script writtin in bash to generate your report!
 
 ```./generate.sh (input.md) (output.pdf)```
 
-# H3 Manual
+### Manual
 Generate the report PDF from the markdown template:
 ```
 pandoc src/OSCP-exam-report-template_whoisflynn_v3.2.md \
@@ -37,7 +37,7 @@ pandoc src/OSCP-exam-report-template_whoisflynn_v3.2.md \
 ```
 You can change the code syntax highlight theme with ```[--highlight-style](https://pandoc.org/MANUAL.html#option--highlight-style)```
 
-# H2 Color sets
+## Color sets
 Well rendering color sets you can use in the template YAML frontmatter:
 
 |: titlepage-color :|: titlepage-text-color :|: titlepage-rule-color :|
@@ -51,12 +51,12 @@ Well rendering color sets you can use in the template YAML frontmatter:
 |:```FF8C00```(DarkOrange):|:```000000```(Black):|:```000000```(Black):|
 |:```FFEF96```(no name):|:```50394C```(no name):|:```50394C```(no name):|
 
-# H2 Mentions
+## Mentions
 
 This report is based off of noraj OSCP template
 - Noraj - https://github.com/noraj
 
-# H2 Credits
+## Credits
 
 Report Templates:
 
